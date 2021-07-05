@@ -1,6 +1,6 @@
 # page 2
 
-![Take me to the index](index.html)
+[Take me to the index](index.html)
 
 
 ```.r
