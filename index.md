@@ -1,4 +1,5 @@
 # Welcome to my site
+.[Go to page 2](page2)
 
 ## Section 1 about my beautiful website
 
