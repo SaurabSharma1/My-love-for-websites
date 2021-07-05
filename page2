@@ -5,6 +5,8 @@
 mean(x = 4)
 
 c(1,2,3)
+```
+
 
 ```.bash
 grep some stuff
