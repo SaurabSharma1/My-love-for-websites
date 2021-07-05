@@ -13,7 +13,6 @@ grep some stuff
 ```
 
 
-```
 colname | colname 2
 --- | ---
 row 1 | cell 2
