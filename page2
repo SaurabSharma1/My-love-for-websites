@@ -1,5 +1,5 @@
 # page 2
-.[Take me back to the index](index.html)
+.[Take me back to the index](index.md)
 
 ```.r
 mean(x = 4)
